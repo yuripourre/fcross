@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Etyllica"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Luvia"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Veete"/>
+	<classpathentry kind="lib" path="/home/death/git/luvia/libs/jogl-all.jar" sourcepath="/home/death/.m2/repository/org/jogamp/jogl/jogl-all/2.0-rc11/jogl-all-2.0-rc11-sources.jar"/>
+	<classpathentry kind="lib" path="/home/death/git/luvia/libs/gluegen-rt.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
